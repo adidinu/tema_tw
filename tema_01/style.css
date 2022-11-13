@@ -47,7 +47,7 @@ p {
 }
 
 .banner {
-	background-image: url('/imgs/road.jpg');
+	background-image: url('imgs/road.jpg');
 	background-repeat: no-repeat;
 	position: relative;
 	height: 100vh;
